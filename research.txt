@@ -1,0 +1,4 @@
+git config:it enables me to set my name and email.
+git init:it is a command that creates a new repo or reintialize an old one.
+git merge:it  enables me to do the same changes wich I have made on one branch to another branch
+get remote:it enables me to manage the remote repos .
